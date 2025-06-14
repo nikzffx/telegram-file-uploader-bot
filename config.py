@@ -33,7 +33,7 @@ api_hash = 'aa677b47c070611cab663cf8018b114c'
    
 # ]
 
-REQUIRED_CHANNELS = [-1002421613072]
+REQUIRED_CHANNELS = []
 
 Main_channel='shishyacode'
 
