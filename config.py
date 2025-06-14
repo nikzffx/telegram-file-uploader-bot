@@ -21,8 +21,8 @@ MONITOR_CHANNEL = NOTIFY_CHANNEL
 
 
 #---Tg config--
-api_id = int('enter_api_id')
-api_hash = 'api_hash'
+api_id = int('22333911')
+api_hash = 'aa677b47c070611cab663cf8018b114c'
 
 #Enter list of channel username(without @) that will be force member join channel
 #Example:
