@@ -8,7 +8,7 @@ BOT_TOKEN = '7417313325:AAHvCLGvjKn9OSLcjXngQt5QsKoBOPDd-8c'
 #Enter pvt channel id(not link or username) file will store there
 
 #Example=  -1002561647104 
-CHANNEL_ID = int('-1002421613072')
+CHANNEL_ID = int('')
 
 #Enter private chanel id for logs
 NOTIFY_CHANNEL = int('-1002831333711')
