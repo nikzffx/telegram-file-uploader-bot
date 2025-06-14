@@ -11,7 +11,7 @@ BOT_TOKEN = '7417313325:AAHvCLGvjKn9OSLcjXngQt5QsKoBOPDd-8c'
 CHANNEL_ID = int('-1002421613072')
 
 #Enter private chanel id for logs
-NOTIFY_CHANNEL = int('Enter_here')
+NOTIFY_CHANNEL = int('-1002831333711')
 
 
 
